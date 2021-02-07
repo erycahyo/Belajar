@@ -1,0 +1,105 @@
+*{
+    margin;0
+    padding:0
+}
+.navbar-top{
+    width:100%;
+    height:32px;
+    background-color: #a5aab1;
+    
+}
+.download{
+    width: 168.13px;
+    height: 31px;
+    
+    float: left;
+
+}
+.download p{
+ 
+    font-size: 12px;
+    /* margin: 0px 0px 0px 4px; */
+
+ margin-top: 8PX;
+    margin-bottom: 0PX;
+    margin-right: 10px;
+    margin-left:20px;
+/* padding-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-right: 4px; */
+    color: crimson;
+    
+}
+.menu-top{
+font-size: 12px;
+    width: 533px;
+        height: 31px;
+        border: 1px black solid;
+    float: right;
+    
+
+}
+.menu-top ul li{
+    float: left ;
+   margin-right: 20px;
+   margin-top: -4px;
+   list-style: none;
+   border: 1px black solid;
+   
+   
+}
+
+.menu-top ul li a {
+    text-decoration: none;
+    color: black;
+}
+,.menu-top ul {
+    padding-top: -50px;
+    border: 1px black solid;
+}
+.navbar-top-middle{
+    width:100%;
+    height:52px;
+    background-color: rgb(236, 236, 236);
+    border: 1px black solid;
+}
+.tokopedia{
+    width: 145px;
+    height: 35px;
+    float: left;
+    border: 1px black solid;
+    margin-right: 20px;
+    
+}
+
+.tokopedia img{
+margin-top: 10px;
+}
+.kategori{
+    font-size: 20px;
+    margin-left: 20px;
+    border: 1px black solid;
+    float:left;
+   }
+    
+   .search {
+    width: 783px;
+    height: 35px;
+    border: 1px rgb(230, 5, 5) solid;
+    margin-left: 280px;
+
+   }
+   .search .inputan{
+    width: 720px;
+    height: 35px;
+    float: left;
+   }
+   .search .tombol
+   {
+    width: 32px;
+    height: 35px;
+    border: 1px rgb(38, 160, 65) solid;
+   }
+
+   
