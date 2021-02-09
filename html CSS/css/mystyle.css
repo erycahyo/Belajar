@@ -70,6 +70,7 @@ font-size: 12px;
     float: left;
     border: 1px black solid;
     margin-right: 20px;
+    margin-top: 5px;
     
 }
 
@@ -77,8 +78,9 @@ font-size: 12px;
 margin-top: 10px;
 }
 .kategori{
-    font-size: 20px;
+    font-size: 16px;
     margin-left: 20px;
+    margin-top: 0px;
     border: 1px black solid;
     float:left;
    }
@@ -88,18 +90,95 @@ margin-top: 10px;
     height: 35px;
     border: 1px rgb(230, 5, 5) solid;
     margin-left: 280px;
+    margin-top: 8px;
 
    }
    .search .inputan{
     width: 720px;
-    height: 35px;
+    height: 30px;
     float: left;
+    border-radius: 10px;
    }
    .search .tombol
    {
     width: 32px;
     height: 35px;
     border: 1px rgb(38, 160, 65) solid;
+    border-radius: 10px;
    }
+   .troli{
+    width: 32px;
+    height: 35px;
+    border: 1px red solid;
+    float: left;
+    border-radius: 10px;
+   }
+.troli img{
+    width: 32px;
+    height: 35px;
+    border-radius: 10px;
+}
+.menu-login{
+   font-size: 10px;
+    width: 150px;
+    height: 35px;
+    border: 1px blue solid;
+    float: right;
+}
+.menu-login ul li{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+        list-style: none;
+    border: 1px black solid;
+    ma
+}
+.menu-login ul li a{
+    width: 30px;
+    height: 30px;
+    
+    text-decoration: none;
+    color: black;
 
+}
    
+.navbar-menu{
+    width:100%;
+    height:20px;
+    background-color: rgb(236, 236, 236);
+    border: 1px black solid;
+}
+.daftar-menu{
+    font-size: 12px;
+    width: 607px;
+        height: 18px;
+        border: 1px black solid;
+    
+}
+.daftar-menu ul li{
+    float: left ;
+    margin-right: 20px;
+    margin-top: -14px;
+    list-style: none;
+    border: 1px black solid;
+    
+}
+.daftar-menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.navslide-menu{
+    width:100%;
+    height: 350px;
+    border: 1px black solid;
+    background-color: cadetblue;
+    font-size: 50px;
+}
+.slide-bar img{
+    width: 30%;
+    height: 20%;
+    padding-left: 200px;
+    
+     
+}
